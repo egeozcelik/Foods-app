@@ -8,15 +8,14 @@ Used Technologies:
  - Kingfisher( for image handling)
  - MapKit & CoreLocation frameworks( for location and distance operations)
 
-<img src="images/img1.png" width=50% height=50%>
+<img src="images/img1.png" width=40% height=40%>
+<img src="images/img2.png" width=40% height=40%>
+<img src="images/img3.png" width=40% height=40%>
+<img src="images/img4.png" width=40% height=40%>
+<img src="images/img5.png" width=40% height=40%>
+<img src="images/img6.png" width=40% height=40%>
 
 
-![Login Page](images/img1.png)
-![Home Page](images/img2.png)
-![Item Detail Page](images/img3.png)
-![Basket Page](images/img4.png)
-![Profile Page](images/img5.png)
-![Order Page](images/img6.png)
 
 
  
