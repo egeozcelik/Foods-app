@@ -10,7 +10,8 @@ Used Technologies:
 
 # Pages
 
-Login Page
+                 Login Page
+
 <img src="images/img1.png" width=40% height=40%>
 
 Home Page
