@@ -7,6 +7,6 @@ Used Technologies:
  - Kingfisher( for image handling)
  - MapKit & CoreLocation frameworks( for location and distance operations)
 
-!(images/img3)
+!(img3)
 
  
