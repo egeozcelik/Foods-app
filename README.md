@@ -10,23 +10,28 @@ Used Technologies:
 
 # Pages
 
-                 Login Page
+    Login Page
 
 <img src="images/img1.png" width=40% height=40%>
 
-Home Page
+    Home Page
+    
 <img src="images/img2.png" width=40% height=40%>
 
-Item Details Page
+    Item Details Page
+    
 <img src="images/img3.png" width=40% height=40%>
 
-Basket Page
+    Basket Page
+    
 <img src="images/img4.png" width=40% height=40%>
 
-Profile Page
+    Profile Page
+    
 <img src="images/img5.png" width=40% height=40%>
 
-Order Page
+    Order Page
+    
 <img src="images/img6.png" width=40% height=40%>
 
 
