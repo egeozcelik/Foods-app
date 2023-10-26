@@ -8,7 +8,7 @@ Used Technologies:
  - Kingfisher( for image handling)
  - MapKit & CoreLocation frameworks( for location and distance operations)
 
-<img src="images/img1" width=50% height=50%>
+<img src="images/img1.png" width=50% height=50%>
 
 
 ![Login Page](images/img1.png)
